@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+matplotlib
+opencv-python
+textblob
+vaderSentiment
+plotly
+tensorflow
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+optuna
+shap
+fpdf
