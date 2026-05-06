@@ -7,10 +7,3 @@ textblob
 vaderSentiment
 plotly
 tensorflow==2.15.0
-scikit-learn
-xgboost
-lightgbm
-imbalanced-learn
-optuna
-shap
-fpdf
