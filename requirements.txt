@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 matplotlib
-opencv-python
+opencv-python-headless
 textblob
 vaderSentiment
 plotly
